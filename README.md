@@ -14,16 +14,6 @@ Este repositório reúne as análises e exercícios práticos desenvolvidos ao l
 
 O curso teve carga horária de **20 horas** e foi concluído em **27/04/2026**, com bolsa de estudos concedida pela PrograMaria.
 
----
-
-## 🗂️ Estrutura do repositório
-analise-de-dados-progrAmo/
-    │
-    ├── analise_dados.ipynb       # Análise exploratória com Python e SQL
-    ├── regressao.ipynb           # Introdução ao Machine Learning com regressão
-    └── README.md
-
----
 
 ## 🚀 Conteúdo abordado
 
