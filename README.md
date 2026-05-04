@@ -34,6 +34,8 @@ O curso teve carga horária de **20 horas** e foi concluído em **27/04/2026**, 
 
 ### 📈 Looker Studio
 - Construção de dashboard interativo com os dados trabalhados
+- <img width="889" height="668" alt="image" src="https://github.com/user-attachments/assets/5e098a80-2d15-4623-bd3a-f6dbb2046999" />
+
 - 👉 [Acesse o dashboard aqui](https://datastudio.google.com/reporting/79e1cf59-d8a0-4c15-a90a-a3e970193e80)
 
 ### 🤖 Machine Learning
